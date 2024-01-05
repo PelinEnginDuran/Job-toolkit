@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": 6,
-      "position": "Data Scientist",
-      "company": "Microsoft",
-      "location": "Redmond",
-      "status": "Devam Ediyor",
-      "type": "Tam Zamanlı",
-      "date": "3/1/2024"
-    },
-    {
       "id": 7,
       "position": "Frontend Developer",
       "company": "Udemig",
@@ -65,11 +56,20 @@
     },
     {
       "position": "Frontend Developer",
-      "company": "Amazon",
-      "location": "USA",
+      "company": "Udemig",
+      "location": "izmir",
+      "status": "Mulakat",
+      "type": "Tam zamanlı",
+      "id": "d9a61761-6343-49fd-b424-983bf189fe23",
+      "date": "05.01.2024"
+    },
+    {
+      "position": "Software Tester",
+      "company": "Microsoft",
+      "location": "izmir",
       "status": "Devam Ediyor",
-      "type": "Uzaktan",
-      "id": "2c7001f7-f944-4b04-b13a-1463e51282bc",
+      "type": "Yarı zamanlı",
+      "id": "6d8315a3-fa69-4f44-9b46-bc3e610a092e",
       "date": "05.01.2024"
     }
   ]
