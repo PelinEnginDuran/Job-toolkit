@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": 6,
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "3/1/2024"
+    },
+    {
+      "id": 7,
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "İzmir/Bayraklı",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "1/17/2021"
+    },
+    {
+      "id": 9,
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "position": "Data Scientist",
+      "company": "udemig",
+      "location": "izmir",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "38bf831e-57db-4b0c-9c2a-cd2e490f18b3",
+      "date": "04.01.2024"
+    },
+    {
+      "position": "developer",
+      "company": "Udemig",
+      "location": "izmir",
+      "status": "Mulakat",
+      "type": "Tam zamanlı",
+      "id": "66680d37-b59f-4cb1-aa57-e72a20bcd973",
+      "date": "04.01.2024"
+    },
+    {
+      "position": "native",
+      "company": "kodlasam.io",
+      "location": "Ankara/Çankaya",
+      "status": "Mulakat",
+      "type": "Tam zamanlı",
+      "id": "d5889608-f19d-47e9-a686-0bfbdb5cd099",
+      "date": "04.01.2024"
+    },
+    {
+      "position": "Data Scientist",
+      "company": "kod",
+      "location": "Ankara/Çankaya",
+      "status": "Reddedildi",
+      "type": "Staj",
+      "id": "9fad0311-b2ec-4ecf-94b2-d4a3a960b48c",
+      "date": "05.01.2024"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Amazon",
+      "location": "USA",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "id": "2c7001f7-f944-4b04-b13a-1463e51282bc",
+      "date": "05.01.2024"
+    }
+  ]
+}
